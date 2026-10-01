@@ -1,12 +1,16 @@
-- 👋 Hi, I’m Valéria
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Olá! Eu sou a Valeria 👋
 
-<!---
-Valjer41/Valjer41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Estudante de Desenvolvimento Web
+
+🚀 Atualmente estudando:
+- JavaScript
+- Lógica de programação
+- Git e GitHub
+- Node.js
+
+📚 Projetos:
+- Classificador de Nível de Herói
+- Desafios de lógica em JavaScript
+
+🎯 Objetivo:
+Desenvolver minhas habilidades em tecnologia e construir meu portfólio.
